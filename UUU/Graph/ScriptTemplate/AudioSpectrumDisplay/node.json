@@ -1,0 +1,138 @@
+{
+	"name": "Spectrum Detection",
+	"id": "6b7ef62c-07d1-fcf5-bbde-3d84ce9b63e8",
+	"description": "Divide the audio spectrum range (0 Hz to 22050 Hz) into 8 output bands, and detect the magnitude of each band in a range between 0 and 255. \nYou can use the output values to animate or transform 2D objects.",
+	"inputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The audio stream you want to detect the magnitude of the spectrum range",
+			"displayType": "Audio Stream",
+			"nameKey": "graph_spectrum_detection_input_audio",
+			"descriptionKey": "graph_spectrum_detection_input_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		},
+		{
+			"name": "Enabled",
+			"type": "Bool",
+			"default_value": true,
+			"description": "Enable this node or not",
+			"displayType": "Boolean",
+			"nameKey": "graph_spectrum_detection_input_enabled",
+			"descriptionKey": "graph_spectrum_detection_input_enabled_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The connected audio stream. Connect it to a speaker to play or connect it to a Detection Output to play with no sound.",
+			"displayType": "Audio Stream",
+			"nameKey": "graph_spectrum_detection_output_audio",
+			"descriptionKey": "graph_spectrum_detection_output_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		},
+		{
+			"name": "Average",
+			"type": "Double",
+			"description": "The average magnitude of the audio stream",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_average",
+			"descriptionKey": "graph_spectrum_detection_output_average_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 1",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 0 Hz to 2756 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band1",
+			"descriptionKey": "graph_spectrum_detection_output_band1_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 2",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 2756 Hz to 5512 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band2",
+			"descriptionKey": "graph_spectrum_detection_output_band2_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 3",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 5512 Hz to 8269 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band3",
+			"descriptionKey": "graph_spectrum_detection_output_band3_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 4",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 8269 Hz to11025 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band4",
+			"descriptionKey": "graph_spectrum_detection_output_band4_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 5",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 11025 Hz to 13781 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band5",
+			"descriptionKey": "graph_spectrum_detection_output_band5_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 6",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 13781 Hz to16537 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band6",
+			"descriptionKey": "graph_spectrum_detection_output_band6_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 7",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 16537 Hz to 19293 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band7",
+			"descriptionKey": "graph_spectrum_detection_output_band7_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Band 8",
+			"type": "Double",
+			"description": "The magnitude of the spectrum range from 19293 Hz to 22050 Hz",
+			"displayType": "Number",
+			"nameKey": "graph_spectrum_detection_output_band8",
+			"descriptionKey": "graph_spectrum_detection_output_band8_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"category": "Audio",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nodeEvent": [
+		"onUpdate"
+	],
+	"scriptSupport": "js",
+	"js": "CGSpectrumDisplay.js",
+	"version": "1.0.0",
+	"amazingVersion": "10.40.0",
+	"builtinClass": "AudioExtractorNode",
+	"audioNodeName": "spectrum_display",
+	"SDKVersion": "10.5.0",
+	"onlineWebsite": "graph_spectrum_detection_website",
+	"nameKey": "graph_spectrum_detection_name",
+	"categoryKey": "graph_category_audio",
+	"descriptionKey": "graph_spectrum_detection_description"
+}

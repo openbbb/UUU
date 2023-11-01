@@ -1,0 +1,489 @@
+[
+  {
+    "guid": {
+      "a": "48a9a17e-6f32-d845-e7e5-13178c0bd877",
+      "b": ""
+    },
+    "objGuid": "Guid(1171767892345451582, 3926497247470582194)",
+    "extraType": "Entity",
+    "name": "Tip: To modify Disco Party",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "1215d798-10a5-c73c-2741-97ca5aecca95",
+      "b": ""
+    },
+    "objGuid": "Guid(14718271431138021370, 8878870112095514260)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "67f1730a-1e08-095d-e245-985501f6dbf9",
+      "b": ""
+    },
+    "objGuid": "Guid(8160899615491748129, 17804038764708897972)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "723313b9-74df-05ca-b1f5-d1e9d8bf6565",
+      "b": ""
+    },
+    "objGuid": "Guid(5279599591517522405, 777504861658886533)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "0e2e19a2-f5fa-2c9a-3125-d1be34c7f172",
+      "b": ""
+    },
+    "objGuid": "Guid(16379534942391046310, 843992893630258618)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "a5c115a8-9ecd-ff62-b1c9-d714b46ae0e8",
+      "b": ""
+    },
+    "objGuid": "Guid(2253808061180576990, 9036356534744587187)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5
+  },
+  {
+    "guid": {
+      "a": "31d719c7-91fc-f22a-cdb5-16bc48160980",
+      "b": ""
+    },
+    "objGuid": "Guid(10326057997501662467, 8239817774790179201)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2d_background"
+  },
+  {
+    "guid": {
+      "a": "5e10b1c4-8457-3e6c-05b2-358b909fcb8d",
+      "b": ""
+    },
+    "objGuid": "Guid(2901143752112556421, 9329191364958570118)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "13b61d86-361a-5a20-a1e0-95f5fbed2836",
+      "b": ""
+    },
+    "objGuid": "Guid(16881944780996788461, 2615001245194393498)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "721c8b06-a414-118b-ea71-b7cc1e7e22b6",
+      "b": ""
+    },
+    "objGuid": "Guid(16735382368393102143, 5446103150923335598)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "f038868b-ac58-362a-b591-5a43ea585d95",
+      "b": ""
+    },
+    "objGuid": "Guid(8162269103782758968, 9985526740109037756)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "1f39a355-8920-8758-6f0a-75b1bb81ebb8",
+      "b": ""
+    },
+    "objGuid": "Guid(9603429505643864049, 4380237907722776225)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "d3892862-bb31-fa81-82f7-a1e32b6f2eaa",
+      "b": ""
+    },
+    "objGuid": "Guid(4559429043322832197, 3671601266292578235)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "7179345c-fada-9dc9-ca00-eac35292920d",
+      "b": ""
+    },
+    "objGuid": "Guid(2180709339949138282, 15560490437430667169)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "58c44981-8fef-bb0c-fdaa-bd567463f8f1",
+      "b": ""
+    },
+    "objGuid": "Guid(6939538999845775642, 11700535778711015330)",
+    "extraType": "Entity",
+    "name": "Portrait Left",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2d_background"
+  },
+  {
+    "guid": {
+      "a": "fdcb8718-da9a-9a81-7356-f9a11e41d315",
+      "b": ""
+    },
+    "objGuid": "Guid(12412868906464983454, 6873274731269547159)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "e028f2d9-b85c-d859-a157-febdd84ebc43",
+    "texture": "00000000-0000-0000-0000-000000001544"
+  },
+  {
+    "guid": {
+      "a": "f7ddd843-59d6-f48d-2c51-20cb502c4557",
+      "b": ""
+    },
+    "objGuid": "Guid(307654908556381611, 14198391678411969950)",
+    "extraType": "Entity",
+    "name": "Portrait Right",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2d_background"
+  },
+  {
+    "guid": {
+      "a": "8459811b-5762-ed7b-615c-74ddacc68cc0",
+      "b": ""
+    },
+    "objGuid": "Guid(17890664761862935549, 7818539938015297429)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "e028f2d9-b85c-d859-a157-febdd84ebc43",
+    "texture": "00000000-0000-0000-0000-000000001544"
+  },
+  {
+    "guid": {
+      "a": "8620d2a9-c47f-d8b4-b15c-c2dc5c101f2e",
+      "b": ""
+    },
+    "objGuid": "Guid(10540909894899991776, 3396351397009877183)",
+    "extraType": "Entity",
+    "name": "Portrait Center",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2d_background"
+  },
+  {
+    "guid": {
+      "a": "6d97e7d9-f050-0bac-99f8-29b8e0959a21",
+      "b": ""
+    },
+    "objGuid": "Guid(3262111318562546387, 11654040564004490409)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "e028f2d9-b85c-d859-a157-febdd84ebc43",
+    "texture": "00000000-0000-0000-0000-000000001544"
+  },
+  {
+    "guid": {
+      "a": "707a15b1-dd40-fb85-7663-b17ab28b8ad4",
+      "b": ""
+    },
+    "objGuid": "Guid(18320816694033963629, 7902563377887630779)",
+    "extraType": "Entity",
+    "name": "Segmentation Effects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "958237c4-5738-5c42-740d-24c00a83dd91",
+      "b": ""
+    },
+    "objGuid": "Guid(7804508339958378895, 8548287107771214769)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 10
+  },
+  {
+    "guid": {
+      "a": "b1357f88-d2d3-e9c7-4c34-6b1f0fd37795",
+      "b": ""
+    },
+    "objGuid": "Guid(6431902903915409731, 2526300425384930231)",
+    "extraType": "Entity",
+    "name": "Spot Light",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "1eaab2f7-effa-ddf5-2b5e-7f5f0df24dd1",
+      "b": ""
+    },
+    "objGuid": "Guid(10251756248743727165, 8553025839434273925)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "blendMode": "Screen",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "texture": "2caed5ad-6a46-9170-ca59-ae64ade05128"
+  },
+  {
+    "guid": {
+      "a": "bd38a6a1-7ebc-8b24-cef0-a56f44e3757c",
+      "b": ""
+    },
+    "objGuid": "Guid(16232487816155039500, 15080404099946889917)",
+    "extraType": "Entity",
+    "name": "2. Go to VS panel ",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "4a91d112-2493-f390-f609-b7afcd75024e",
+      "b": ""
+    },
+    "objGuid": "Guid(2111463031839786652, 7658260145465033371)",
+    "extraType": "Entity",
+    "name": "3. Tweak the properties to change the portrait responding position",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "adb204dd-44e2-b460-a74b-380e7c1db9f7",
+      "b": ""
+    },
+    "objGuid": "Guid(6503604946258234567, 14341172813620286635)",
+    "extraType": "Entity",
+    "name": "1. Choose a Dancing Preview Video",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "dabc6a47-b264-9c29-83af-7caa47b5d9f2",
+      "b": ""
+    },
+    "extraType": "JSAssetSegmentation",
+    "name": "PortraitSegmentation_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "ScreenRenderTexture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

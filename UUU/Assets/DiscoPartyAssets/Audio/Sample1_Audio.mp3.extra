@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "92b0d0d6-3341-64ff-4766-8e1561e54d59",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Sample1_Audio",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

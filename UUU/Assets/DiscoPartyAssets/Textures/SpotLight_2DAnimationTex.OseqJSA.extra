@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "2caed5ad-6a46-9170-ca59-ae64ade05128",
+      "b": ""
+    },
+    "extraType": "JSAssetAnimSequence",
+    "name": "SpotLight_2DAnimationTex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
